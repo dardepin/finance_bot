@@ -1,0 +1,5 @@
+__pycache__
+bak/
+*.pyc
+config.py
+finance_bot.db
